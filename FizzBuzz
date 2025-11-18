@@ -1,0 +1,7 @@
+Buat program yang mencetak angka dari 1 sampai 100, dengan aturan:
+
+Angka kelipatan 3 diganti "Fizz"
+
+Angka kelipatan 5 diganti "Buzz"
+
+Angka kelipatan 3 dan 5 diganti "FizzBuzz"
