@@ -21,7 +21,7 @@ Notes:
 Soal Teknis Interview:
 
 buka halaman google form berikut dan jawab dan selesaikan
-https://docs.google.com/forms/d/e/1FAIpQLScKvoFGtwFiEEsL0B-zmCgilzjUX0jK7xrbc2tmTVYXBi_dpg/viewform?usp=dialog
+https://docs.google.com/forms/d/e/1FAIpQLSdmoRKA2XNF-vB21nKxqSyVAedoPoBweZ6p1pAcQkIIF2wq6g/viewform?usp=publish-editor
 
 Good Luck and Best Regards,
 IT Dept HWGroup
